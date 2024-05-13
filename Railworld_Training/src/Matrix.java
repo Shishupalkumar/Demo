@@ -3,6 +3,9 @@ import java.util.Scanner;
 public class Matrix {
 
     public static void main(String a[]) {
+
+        // Arrays.toString(); method is used to print array without using for loop
+
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the number of rows: ");
         int rows = sc.nextInt();
