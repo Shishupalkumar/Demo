@@ -1,8 +1,14 @@
-package Interface;
 
-public class Car_Functions {
-    public
+/*package Interface;
+
+public class Car implements Car_Function {
+
+    @Override
+    public void Milage();
+
 
 
 
 }
+*/
+
