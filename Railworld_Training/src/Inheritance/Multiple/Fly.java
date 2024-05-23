@@ -1,2 +1,5 @@
-package Inheritance.Multiple;public interface Fly {
+package Inheritance.Multiple;
+
+public interface Fly {
+    void fly();
 }

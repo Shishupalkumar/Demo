@@ -1,2 +1,5 @@
-package Inheritance.Hybrid;public interface Fly {
+package Inheritance.Hybrid;
+
+public interface Fly {
+    void Fly();
 }

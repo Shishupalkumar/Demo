@@ -1,2 +1,5 @@
-package Inheritance.Hybrid;public interface Swim {
+package Inheritance.Hybrid;
+
+public interface Swim {
+    void Swim();
 }
