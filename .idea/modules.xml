@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Demo.iml" filepath="$PROJECT_DIR$/.idea/Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Railworld_Training/JDBC/JDBC.iml" filepath="$PROJECT_DIR$/Railworld_Training/JDBC/JDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Railworld_Training/Railworld_Training.iml" filepath="$PROJECT_DIR$/Railworld_Training/Railworld_Training.iml" />
+    </modules>
+  </component>
+</project>
